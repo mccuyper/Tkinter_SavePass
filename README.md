@@ -4,7 +4,7 @@ App for saving passwords in DB(in this case - in PostgreSQL, but you can use wha
 Application have 5 Fields to fill - NAME, IP, USERNAME, PASSWORD, DESCRIPTION.
              and 5 functional buttons - ADD, SAVE, SEARCH, DELETE, CLOSE
 
-Simple application built using python framework Tkinkter.
+Simple application built using python framework Tkinter.
 
 You can easely compile it for using on Windows OS
 
