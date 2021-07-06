@@ -16,3 +16,8 @@ REQUIREMENTS:
   
   
  Show <a href="https://www.ptrace-security.com/blog/how-to-compile-python-scripts-with-pyinstaller/">How to compile python script with PyInstaller</a> <--- here
+
+<img src="https://github.com/mccuyper/Tkinter_SavePass/blob/main/welcome.png?raw=true" alt="">
+<img src="https://github.com/mccuyper/Tkinter_SavePass/blob/main/mainInterface.png?raw=true" alt="">
+<img src="https://github.com/mccuyper/Tkinter_SavePass/blob/main/addingData.png?raw=true" alt="">
+<img src="https://github.com/mccuyper/Tkinter_SavePass/blob/main/viewAddedData.png?raw=true" alt="">
